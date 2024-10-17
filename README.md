@@ -2,9 +2,9 @@
 
 Hi
 
-Thanks for visiting my langchain respository.
+Thanks for visiting my lang respository.
 
-In this repository, I learn how to use langchain to
+In this repository, I learn how to use lang to
 
 1. import openai, prompt template, build chain, simple sequential chain, sequential chain, agents, and use memory for conversation chain
 2. use huggingfaceapi
