@@ -11,4 +11,4 @@ In this repository, I learn how to use lang to
 3. create restaurant name generator for cuisines with menu items using streamlit
 4. (langflow) RAG with LLM
 
-The tutorials are from codebasics, and freecodecamp. 
+The tutorials are from codebasics, and freecodecamp
